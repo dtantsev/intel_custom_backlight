@@ -14,6 +14,7 @@ chmod +x intel_custom_backlight.sh
 ```
 
 Put this file to `/usr/local/sbin`
+
 In GNOME Keyboard Shortcuts create bindings "Backlight Up" and "Backlight Down", set commands respectively:
 ```
 sudo intel_custom_backlight.sh up
