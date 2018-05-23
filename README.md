@@ -1,4 +1,5 @@
-#Laptop Custom Backlight Brightness Regulator (Intel Video) For Linux
+Laptop Custom Backlight Brightness Regulator (Intel Video) For Linux
+====================================================================
 
 If you are unhappy with default backlight brightness regulation of your Intel graphics-based laptop (too bright at lowest level and burn your eyes at night), you can try this script.
 
